@@ -1,1 +1,2 @@
 Joshua's hobbies are long walks on the beach
+Alice's hobbies are teaching people Git, and long walks on the beach.

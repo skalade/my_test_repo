@@ -1,1 +1,2 @@
 Joshua's job is a PhD student
+Alice's job is a Git expert
